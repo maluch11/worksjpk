@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tns:JPK xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://jpk.mf.gov.pl/wzor/2017/11/13/1113/" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/">
+    <tns:Naglowek>
+        <tns:KodFormularza kodSystemowy="JPK_VAT (3)" wersjaSchemy="1-1">JPK_VAT</tns:KodFormularza>
+        <tns:WariantFormularza>3</tns:WariantFormularza>
+        <tns:CelZlozenia>1</tns:CelZlozenia>
+        <tns:DataWytworzeniaJPK>2018-02-18T17:13:40.352</tns:DataWytworzeniaJPK>
+        <tns:DataOd>2017-11-01+01:00</tns:DataOd>
+        <tns:DataDo>2017-11-30+01:00</tns:DataDo>
+        <tns:NazwaSystemu>Works</tns:NazwaSystemu>
+    </tns:Naglowek>
+    <tns:Podmiot1>
+        <tns:NIP>6480107355</tns:NIP>
+        <tns:PelnaNazwa>Zakład Elektromechaniki Dźwigowej Ryszard Malucha</tns:PelnaNazwa>
+        <tns:Email>ryszard.malucha@malucha.eu</tns:Email>
+    </tns:Podmiot1>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>1</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6310101307</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Avantor Performance Materials Poland S.A."</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"44-101 Gliwice ul. Sowińskiego 11"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>1</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-17</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-17</tns:DataSprzedazy>
+        <tns:K_17>0.00</tns:K_17>
+        <tns:K_18>0.00</tns:K_18>
+        <tns:K_19>100.00</tns:K_19>
+        <tns:K_20>23.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>2</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze                                              "</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>2</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_34>200.00</tns:K_34>
+        <tns:K_35>46.00</tns:K_35>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>3</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>3</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_34>300.00</tns:K_34>
+        <tns:K_35>69.00</tns:K_35>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>4</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>4</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_17>0.00</tns:K_17>
+        <tns:K_18>0.00</tns:K_18>
+        <tns:K_19>400.00</tns:K_19>
+        <tns:K_20>92.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>5</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>5</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_17>0.00</tns:K_17>
+        <tns:K_18>0.00</tns:K_18>
+        <tns:K_19>500.00</tns:K_19>
+        <tns:K_20>115.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>6</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>6</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_17>0.00</tns:K_17>
+        <tns:K_18>0.00</tns:K_18>
+        <tns:K_19>600.00</tns:K_19>
+        <tns:K_20>138.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>7</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>7</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_17>0.00</tns:K_17>
+        <tns:K_18>0.00</tns:K_18>
+        <tns:K_19>600.00</tns:K_19>
+        <tns:K_20>138.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>8</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>8</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_17>700.00</tns:K_17>
+        <tns:K_18>56.00</tns:K_18>
+        <tns:K_19>0.00</tns:K_19>
+        <tns:K_20>0.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>9</tns:LpSprzedazy>
+        <tns:NrKontrahenta>6482743351</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Miasto Zabrze"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"41-800 Zabrze  ul.Powstańców Śląskich 5-7"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>9</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_17>800.00</tns:K_17>
+        <tns:K_18>64.00</tns:K_18>
+        <tns:K_19>0.00</tns:K_19>
+        <tns:K_20>0.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazWiersz>
+        <tns:LpSprzedazy>10</tns:LpSprzedazy>
+        <tns:NrKontrahenta>9691606909</tns:NrKontrahenta>
+        <tns:NazwaKontrahenta>"Gmina Gierałtowice"</tns:NazwaKontrahenta>
+        <tns:AdresKontrahenta>"44-186 Gierałtowice  ul.Ks.Roboty 48"</tns:AdresKontrahenta>
+        <tns:DowodSprzedazy>10</tns:DowodSprzedazy>
+        <tns:DataWystawienia>2017-11-27</tns:DataWystawienia>
+        <tns:DataSprzedazy>2017-11-27</tns:DataSprzedazy>
+        <tns:K_17>900.00</tns:K_17>
+        <tns:K_18>72.00</tns:K_18>
+        <tns:K_19>0.00</tns:K_19>
+        <tns:K_20>0.00</tns:K_20>
+    </tns:SprzedazWiersz>
+    <tns:SprzedazCtrl>
+        <tns:LiczbaWierszySprzedazy>10</tns:LiczbaWierszySprzedazy>
+        <tns:PodatekNalezny>813.00</tns:PodatekNalezny>
+    </tns:SprzedazCtrl>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>1</tns:LpZakupu>
+        <tns:NrDostawcy>9691069920</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"IZAMIX S.C. Ewa Oborska Marek Oborski"</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>44-117 Gliwice ul. Centaura 23/27</tns:AdresDostawcy>
+        <tns:DowodZakupu>FV/8/2017</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-01</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-01</tns:DataWplywu>
+        <tns:K_45>100.00</tns:K_45>
+        <tns:K_46>23.00</tns:K_46>
+    </tns:ZakupWiersz>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>2</tns:LpZakupu>
+        <tns:NrDostawcy>7790001083</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"Circle K Polska Sp. z o.o."</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>02-603 Warszawa  ul Puławska 86</tns:AdresDostawcy>
+        <tns:DowodZakupu>00000917071049101</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-03</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-03</tns:DataWplywu>
+        <tns:K_43>200.00</tns:K_43>
+        <tns:K_44>46.00</tns:K_44>
+    </tns:ZakupWiersz>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>3</tns:LpZakupu>
+        <tns:NrDostawcy>6332024152</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"Mobilbox Michał Bobiński"</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>40-144 Katowice ul. Juzefowska 22</tns:AdresDostawcy>
+        <tns:DowodZakupu>F/000024/17</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-04</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-04</tns:DataWplywu>
+        <tns:K_47>69.00</tns:K_47>
+    </tns:ZakupWiersz>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>4</tns:LpZakupu>
+        <tns:NrDostawcy>7790001083</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"Circle K Polska Sp. z o.o."</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>02-603 Warszawa  ul Puławska 86</tns:AdresDostawcy>
+        <tns:DowodZakupu>00027217070451100</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-09</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-09</tns:DataWplywu>
+        <tns:K_47>48.00</tns:K_47>
+    </tns:ZakupWiersz>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>5</tns:LpZakupu>
+        <tns:NrDostawcy>9691604974</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"VIVA Inwestycje Sp. z o.o."</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>44-120 Pyskowice ul.Gliwicka 20</tns:AdresDostawcy>
+        <tns:DowodZakupu>SM/0057/01/2017</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-11</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-11</tns:DataWplywu>
+        <tns:K_48>40.00</tns:K_48>
+    </tns:ZakupWiersz>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>6</tns:LpZakupu>
+        <tns:NrDostawcy>7790001083</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"Circle K Polska Sp. z o.o."</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>02-603 Warszawa  ul Puławska 86</tns:AdresDostawcy>
+        <tns:DowodZakupu>00038317070451100</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-11</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-11</tns:DataWplywu>
+        <tns:K_45>600.00</tns:K_45>
+        <tns:K_46>30.00</tns:K_46>
+    </tns:ZakupWiersz>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>7</tns:LpZakupu>
+        <tns:NrDostawcy>6482764689</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"MZ-LINKA P.Zydra K.Matysik s.c."</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>41-800 Zabrze ul. Webera 4</tns:AdresDostawcy>
+        <tns:DowodZakupu>FV21/01/2017</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-13</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-13</tns:DataWplywu>
+        <tns:K_45>700.00</tns:K_45>
+        <tns:K_46>21.00</tns:K_46>
+    </tns:ZakupWiersz>
+    <tns:ZakupWiersz>
+        <tns:LpZakupu>8</tns:LpZakupu>
+        <tns:NrDostawcy>6482764689</tns:NrDostawcy>
+        <tns:NazwaDostawcy>"ABCD"</tns:NazwaDostawcy>
+        <tns:AdresDostawcy>ABCD</tns:AdresDostawcy>
+        <tns:DowodZakupu>FV21/01/2017</tns:DowodZakupu>
+        <tns:DataZakupu>2017-11-14</tns:DataZakupu>
+        <tns:DataWplywu>2017-11-14</tns:DataWplywu>
+        <tns:K_43>0.00</tns:K_43>
+        <tns:K_44>0.00</tns:K_44>
+    </tns:ZakupWiersz>
+    <tns:ZakupCtrl>
+        <tns:LiczbaWierszyZakupow>8</tns:LiczbaWierszyZakupow>
+        <tns:PodatekNaliczony>277.00</tns:PodatekNaliczony>
+    </tns:ZakupCtrl>
+</tns:JPK>
